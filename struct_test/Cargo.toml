@@ -1,0 +1,6 @@
+[package]
+name = "struct_test"
+version = "0.1.0"
+authors = ["Samrat K S <samrat.ks@soroco.com>"]
+
+[dependencies]

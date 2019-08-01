@@ -1,0 +1,7 @@
+[package]
+name = "vector_test"
+version = "0.1.0"
+authors = ["Samrat K S <samrat.ks@soroco.com>"]
+
+[dependencies]
+rand = "0.3.14"

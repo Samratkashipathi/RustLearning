@@ -1,0 +1,14 @@
+name: KVS
+version: "0.1.0"
+author: Samrat K S <samrat.kashipathi1@gmail.com>
+about: "Does awesome things"
+args:
+  - set:
+      long: set
+      takes_value: true
+  - get:
+      long: get
+      takes_value: true
+  - remove:
+      long: rm
+      takes_value: true
