@@ -1,0 +1,12 @@
+c:\Users\SamratKS\Desktop\Others\Rust\csv-reading\target\rls\debug\deps\memchr-98a5e1aca3f441c5.rmeta: C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\lib.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\c.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\fallback.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\iter.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\naive.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\mod.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\avx.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\sse2.rs
+
+c:\Users\SamratKS\Desktop\Others\Rust\csv-reading\target\rls\debug\deps\memchr-98a5e1aca3f441c5.d: C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\lib.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\c.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\fallback.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\iter.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\naive.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\mod.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\avx.rs C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\sse2.rs
+
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\lib.rs:
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\c.rs:
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\fallback.rs:
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\iter.rs:
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\naive.rs:
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\mod.rs:
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\avx.rs:
+C:\Users\SamratKS\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\sse2.rs:

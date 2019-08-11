@@ -1,0 +1,1 @@
+{"rustc":2854982172252333660,"features":"[]","target":5588472671943892915,"profile":14891217944882224483,"path":1036222786711178230,"deps":[[16004153128937042195,"serde",false,16175030746878355926]],"local":[{"CheckDepInfo":{"dep_info":".fingerprint\\test_sered-41e05df0055e7b63\\dep-bin-test_sered-41e05df0055e7b63"}}],"rustflags":[],"metadata":1311007811498226583}
